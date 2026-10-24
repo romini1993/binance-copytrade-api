@@ -1,0 +1,15 @@
+{
+  "name": "Data Trading Weni",
+  "short_name": "DATA WENI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080b13",
+  "theme_color": "#080b13",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/128/10541/10541955.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
